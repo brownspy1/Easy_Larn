@@ -4,19 +4,28 @@ This project is a Python Learning Management System, consisting of various compo
 
 ## Project Structure
 
-'''Python Learning Management System
-├── Student Progress Monitoring
-│ ├── Student Dashboard
-│ ├── Teacher Dashboard
-│ └── Principal Dashboard
-├── Mobile App
-│ ├── Student App
-│ ├── Teacher App
-│ └── Parent App
-│ ├── Assignments
-│ ├── Grades
-│ └── Calendar
-└── Admin App'''
+<ul>
+        <li>Student Progress Monitoring
+            <ul>
+                <li>Student Dashboard</li>
+                <li>Teacher Dashboard</li>
+                <li>Principal Dashboard</li>
+            </ul>
+        </li>
+        <li>Mobile App
+            <ul>
+                <li>Student App</li>
+                <li>Teacher App</li>
+                <li>Parent App</li>
+                <ul>
+                    <li>Assignments</li>
+                    <li>Grades</li>
+                    <li>Calendar</li>
+                </ul>
+            </ul>
+        </li>
+        <li>Admin App</li>
+    </ul>
 
 
 
