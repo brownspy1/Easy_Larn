@@ -4,7 +4,7 @@ This project is a Python Learning Management System, consisting of various compo
 
 ## Project Structure
 
-Python Learning Management System
+'''Python Learning Management System
 ├── Student Progress Monitoring
 │ ├── Student Dashboard
 │ ├── Teacher Dashboard
@@ -16,7 +16,7 @@ Python Learning Management System
 │ ├── Assignments
 │ ├── Grades
 │ └── Calendar
-└── Admin App
+└── Admin App'''
 
 
 
